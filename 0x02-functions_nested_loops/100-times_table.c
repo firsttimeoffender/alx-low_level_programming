@@ -4,7 +4,7 @@
  * main - print the n times table
  * @n: number times table (0 < n <= 15)
  */
-void print_times_table(int n)
+void times_table(int n)
 {
 	int a, b, op;
 
